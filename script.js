@@ -1,7 +1,7 @@
 
-let a=prompt();
-let b=prompt();
+// var a=prompt();
+// var b=prompt();
 
 
-let z=parseInt(a)*2+parseInt(b);
+var z=parseInt(a)*2+parseInt(b);
 alert("The result is: "+ z);
