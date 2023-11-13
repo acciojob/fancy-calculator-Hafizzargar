@@ -3,5 +3,5 @@ var a=prompt();
 var b=prompt();
 
 
-var z=parseInt(a)*2+parseInt(b);
-alert("The final result is: "+ z);
+var result=parseInt(a)*2+parseInt(b);
+alert("The final result is: "+ result);
