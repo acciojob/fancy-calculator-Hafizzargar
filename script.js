@@ -1,7 +1,9 @@
 
-var a=prompt();
-var b=prompt();
+var a=prompt()*2;
+var b=prompt()*1;
 
 
-var result=parseInt(a)*2+parseInt(b);
+
+
+var result=a+b;
 alert("The final result is: "+ result);
